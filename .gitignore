@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/Aqnu_m/bin/Release/net6.0/publish
+/Aqnu_m/bin/Release/net6.0/win-x64
+/Aqnu_m/bin/Release/net6.0/1.zip
+*.vsidx
