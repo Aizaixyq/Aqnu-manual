@@ -43,6 +43,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "BlazorMarkdown": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "HtmlSanitizer": {
+              "target": "Package",
+              "version": "[7.1.542, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
