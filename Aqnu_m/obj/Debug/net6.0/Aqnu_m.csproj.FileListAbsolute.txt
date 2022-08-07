@@ -25,3 +25,9 @@ D:\代码库\新建文件夹\Aqnu_m\Aqnu_m\obj\Debug\net6.0\refint\Aqnu_m.dll
 D:\代码库\新建文件夹\Aqnu_m\Aqnu_m\obj\Debug\net6.0\Aqnu_m.pdb
 D:\代码库\新建文件夹\Aqnu_m\Aqnu_m\obj\Debug\net6.0\Aqnu_m.genruntimeconfig.cache
 D:\代码库\新建文件夹\Aqnu_m\Aqnu_m\obj\Debug\net6.0\ref\Aqnu_m.dll
+D:\代码库\新建文件夹\Aqnu_m\Aqnu_m\bin\Debug\net6.0\BlazorMarkdown.dll
+D:\代码库\新建文件夹\Aqnu_m\Aqnu_m\bin\Debug\net6.0\Markdig.dll
+D:\代码库\新建文件夹\Aqnu_m\Aqnu_m\obj\Debug\net6.0\Aqnu_m.csproj.CopyComplete
+D:\代码库\新建文件夹\Aqnu_m\Aqnu_m\bin\Debug\net6.0\AngleSharp.dll
+D:\代码库\新建文件夹\Aqnu_m\Aqnu_m\bin\Debug\net6.0\AngleSharp.Css.dll
+D:\代码库\新建文件夹\Aqnu_m\Aqnu_m\bin\Debug\net6.0\HtmlSanitizer.dll
