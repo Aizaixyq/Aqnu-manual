@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "CdFXf+gziBkrkCTout3mQcAt5vHauqq+xKtDrJsmr34=",
+  "Hash": "hxD3WSZihTKh/Weec3y+5r9Yx6WcDkYhGVPi9AzD49E=",
   "Source": "Aqnu_m",
   "BasePath": "_content/Aqnu_m",
   "Mode": "Default",
@@ -83,23 +83,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
-    },
-    {
-      "Identity": "D:\\代码库\\新建文件夹\\Aqnu_m\\Aqnu_m\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
-      "SourceId": "Aqnu_m",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\代码库\\新建文件夹\\Aqnu_m\\Aqnu_m\\wwwroot\\",
-      "BasePath": "_content/Aqnu_m",
-      "RelativePath": "css/open-iconic/FONT-LICENSE",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
       "Identity": "D:\\代码库\\新建文件夹\\Aqnu_m\\Aqnu_m\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
@@ -202,6 +185,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Identity": "D:\\代码库\\新建文件夹\\Aqnu_m\\Aqnu_m\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "SourceId": "Aqnu_m",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\代码库\\新建文件夹\\Aqnu_m\\Aqnu_m\\wwwroot\\",
+      "BasePath": "_content/Aqnu_m",
+      "RelativePath": "css/open-iconic/FONT-LICENSE",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
       "Identity": "D:\\代码库\\新建文件夹\\Aqnu_m\\Aqnu_m\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
