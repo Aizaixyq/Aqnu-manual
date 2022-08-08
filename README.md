@@ -12,7 +12,7 @@
 
 3. 提交：
 
-   - 可进入[Aqnu手册QQ群]:(https://jq.qq.com/?_wv=1027&amp;k=2DiXmDIe)提交给管理员，由管理员代为上传；
+   - 可进入[Aqnu手册QQ群](https://jq.qq.com/?_wv=1027&amp;k=2DiXmDIe)提交给管理员，由管理员代为上传；
    
    - Pull request后发起Merge请求合并至dev分支。
 
