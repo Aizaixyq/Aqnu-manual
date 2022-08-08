@@ -9,7 +9,7 @@ h1:focus {
 }
 
 a, .btn-link {
-    color: #0071c1;
+    color: #0DB537;
 }
 
 .btn-primary {
@@ -60,7 +60,7 @@ a, .btn-link {
 }
 
     .blazor-error-boundary::after {
-        content: "An error has occurred."
+        content: "发生了一个错误"
     }
 
 

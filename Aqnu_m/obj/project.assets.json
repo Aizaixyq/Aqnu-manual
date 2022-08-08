@@ -54,13 +54,13 @@
           "lib/netstandard2.0/HtmlSanitizer.dll": {}
         }
       },
-      "Markdig/0.20.0": {
+      "Markdig/0.30.2": {
         "type": "package",
         "compile": {
-          "lib/netcoreapp3.1/Markdig.dll": {}
+          "lib/net6.0/Markdig.dll": {}
         },
         "runtime": {
-          "lib/netcoreapp3.1/Markdig.dll": {}
+          "lib/net6.0/Markdig.dll": {}
         }
       },
       "Microsoft.AspNetCore.Authorization/3.1.6": {
@@ -305,23 +305,27 @@
         "lib/netstandard2.0/HtmlSanitizer.xml"
       ]
     },
-    "Markdig/0.20.0": {
-      "sha512": "49Kuof5GSRdTnXlDvZ/+ucABl9l5oPA/jpIkFK8Zcnc0NiETj+rf5f4xoNr52a4Hs1DlcJmrRHv4xvZHMxnDFQ==",
+    "Markdig/0.30.2": {
+      "sha512": "rm5rfHGP0BZtcB31CmQeWLLPdpG6xA6xN92x2KcNrl+9MPJONq9u4dfG7VgnTOxdjDnuEkX6GCxMYS+LpoKGOQ==",
       "type": "package",
-      "path": "markdig/0.20.0",
+      "path": "markdig/0.30.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "lib/netcoreapp2.1/Markdig.dll",
-        "lib/netcoreapp2.1/Markdig.xml",
+        "lib/net452/Markdig.dll",
+        "lib/net452/Markdig.xml",
+        "lib/net6.0/Markdig.dll",
+        "lib/net6.0/Markdig.xml",
         "lib/netcoreapp3.1/Markdig.dll",
         "lib/netcoreapp3.1/Markdig.xml",
         "lib/netstandard2.0/Markdig.dll",
         "lib/netstandard2.0/Markdig.xml",
         "lib/netstandard2.1/Markdig.dll",
         "lib/netstandard2.1/Markdig.xml",
-        "markdig.0.20.0.nupkg.sha512",
-        "markdig.nuspec"
+        "markdig.0.30.2.nupkg.sha512",
+        "markdig.nuspec",
+        "markdig.png",
+        "readme.md"
       ]
     },
     "Microsoft.AspNetCore.Authorization/3.1.6": {
@@ -620,7 +624,8 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "BlazorMarkdown >= 1.0.0",
-      "HtmlSanitizer >= 7.1.542"
+      "HtmlSanitizer >= 7.1.542",
+      "Markdig >= 0.30.2"
     ]
   },
   "packageFolders": {
@@ -674,6 +679,10 @@
           "HtmlSanitizer": {
             "target": "Package",
             "version": "[7.1.542, )"
+          },
+          "Markdig": {
+            "target": "Package",
+            "version": "[0.30.2, )"
           }
         },
         "imports": [

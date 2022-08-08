@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "efiBcPnwM7f75Ot1yvF2szqhQbnan0z/wGAm2ZuNjnl80wLyBA7EBCYkxWC6dAUcrMQv8H4A/3e7H5Jp/Pq9sQ==",
+  "dgSpecHash": "2Uzm70rBQFPua8oN/30wOiKPKSGeIrUaSTCyK5US0mJ9j0Z1q5avhhTvqPKNKQh0DqDPOJQirEwLaAvwdJv2pA==",
   "success": true,
   "projectFilePath": "D:\\代码库\\新建文件夹\\Aqnu_m\\Aqnu_m\\Aqnu_m.csproj",
   "expectedPackageFiles": [
@@ -8,7 +8,7 @@
     "C:\\Users\\35343\\.nuget\\packages\\anglesharp.css\\0.16.4\\anglesharp.css.0.16.4.nupkg.sha512",
     "C:\\Users\\35343\\.nuget\\packages\\blazormarkdown\\1.0.0\\blazormarkdown.1.0.0.nupkg.sha512",
     "C:\\Users\\35343\\.nuget\\packages\\htmlsanitizer\\7.1.542\\htmlsanitizer.7.1.542.nupkg.sha512",
-    "C:\\Users\\35343\\.nuget\\packages\\markdig\\0.20.0\\markdig.0.20.0.nupkg.sha512",
+    "C:\\Users\\35343\\.nuget\\packages\\markdig\\0.30.2\\markdig.0.30.2.nupkg.sha512",
     "C:\\Users\\35343\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.6\\microsoft.aspnetcore.authorization.3.1.6.nupkg.sha512",
     "C:\\Users\\35343\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.6\\microsoft.aspnetcore.components.3.1.6.nupkg.sha512",
     "C:\\Users\\35343\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\3.1.6\\microsoft.aspnetcore.components.analyzers.3.1.6.nupkg.sha512",

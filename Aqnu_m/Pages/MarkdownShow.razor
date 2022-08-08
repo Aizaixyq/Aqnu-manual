@@ -1,0 +1,36 @@
+﻿
+<div class="line-numbers">
+    @{
+        if (_hasXss){
+            @_postHtmlContent.ToString()
+        }
+        else{
+            @_postHtmlContent
+        }
+    }
+</div>
+
+
+@code {
+    [Parameter]
+    public string str{ get; set; } = null!;
+
+    private MarkupString _postHtmlContent ;
+    private bool _hasXss = false;
+
+    protected override async Task OnInitializedAsync(){
+    var markdownData = await File.ReadAllTextAsync(str);
+
+    // markdown 转为 html
+    var htmlData = Markdown.ToHtml(markdownData);
+
+    // TODO: 使用 https://github.com/mganss/HtmlSanitizer 清洗html中的xss
+    if (htmlData.Contains("<script") || htmlData.Contains("<link"))
+    {
+        _hasXss = true;
+    }
+
+    // 将 普通文本 转为 可以渲染的html的类型
+    _postHtmlContent = (MarkupString) htmlData;
+    }
+}
