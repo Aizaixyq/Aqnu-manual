@@ -17,8 +17,7 @@
 
 ### 编写规范
 
-- 目前项目使用Markdown 和 Razor（c#、Html和CSS混合语言）
-- 为方便维护，后期会转入JavaScript语言
+- 目前项目使用Markdown 和 基于ASP.Net框架C#语言开发
 
 ### LICENSE
 
